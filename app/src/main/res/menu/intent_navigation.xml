@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/xml"
+        android:icon="@drawable/xml"
+        android:title="@string/xml" />
+
+    <item
+        android:id="@+id/java"
+        android:icon="@drawable/java"
+        android:title="@string/java" />
+
+    <item
+        android:id="@+id/run"
+        android:icon="@drawable/play"
+        android:title="@string/run" />
+
+    <item
+        android:id="@+id/theory"
+        android:icon="@drawable/document"
+        android:title="@string/theory" />
+
+</menu>
